@@ -10,11 +10,14 @@
 <h3 style='left'>IDEs and Editors:</h3>
 <div style='left'>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-83818E.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="Apache Netbeans" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"/>
 </div>
 
 <h3 align="left">Design Tools:</h3>
 <div style='left'>
-<img alt="Canva" src="https://img.shields.io/badge/Canva-purple.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+<img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
+<img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+<img alt="Adobe InDesign" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white"/>
 </div>
 
 <div style="display: inline_block">
