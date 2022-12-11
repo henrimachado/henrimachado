@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **henrimachado/henrimachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,12 +19,9 @@ Here are some ideas to get you started:
 
 <h3 style='left'>Languages:</h3>
 <div style='left'>
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white%22/%3E
-<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white%22/%3E
-<img alt="SQL" src="https://img.shields.io/badge/sql-green.svg?style=for-the-badge&logo=sql&logoColor=white%22/%3E
-<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54%22/%3E
-<img alt="Delphi" src="https://img.shields.io/badge/delphi-blue.svg?style=for-the-badge&logo=sql&logoColor=white%22/%3E
-<img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white%22/%3E
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 </div> 
  
 <h3 style='left'>IDEs and Editors:</h3>
