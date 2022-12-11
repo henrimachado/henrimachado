@@ -21,7 +21,7 @@
 </div>
 
 <div style="display: inline_block">
-  <h2 >Socials</h2>
+  <h3 >Socials</h3>
    <a href = "mailto:henrique.machado@ufvjm.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/henrique-machado-5031451b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href = "https://www.behance.net/henrimachado"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a></div> 
