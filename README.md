@@ -22,9 +22,9 @@
 
 <div style="display: inline_block">
   <h2 >Socials</h2>
+   <a href = "mailto:henrique.machado@ufvjm.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/henrique-machado-5031451b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:henrique.machado@ufvjm.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.behance.net/henrimachado"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a></div> 
+   <a href = "https://www.behance.net/henrimachado"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a></div> 
   
 <div align="left" style="display: inline_block">
   <a href="https://github.com/henrimachado">
