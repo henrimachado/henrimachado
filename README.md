@@ -9,7 +9,7 @@
  
 <h3 style='left'>IDEs and Editors:</h3>
 <div style='left'>
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-83818E.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img alt="Apache Netbeans" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"/>
 </div>
 
