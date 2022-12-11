@@ -21,13 +21,13 @@
 </div>
 
 <div style="display: inline_block">
-  <h3 >Socials</h3>
+  <h3 >Socials:</h3>
    <a href = "mailto:henrique.machado@ufvjm.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/henrique-machado-5031451b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href = "https://www.behance.net/henrimachado"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a></div> 
   
 <div align="left" style="display: inline_block">
- <h3>Stats</h3>
+ <h3>Stats:</h3>
   <a href="https://github.com/henrimachado">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrimachado&layout=compact&langs_count=7&theme=dracula" style="display: inline_block"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=henrimachado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="display: inline_block"/>
