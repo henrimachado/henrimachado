@@ -20,6 +20,7 @@
 <img alt="Adobe InDesign" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white"/>
 </div>
 
+<! –
 <div style="display: inline_block">
   <h3 >Socials:</h3>
    <a href = "mailto:henrique.machado@ufvjm.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -32,3 +33,4 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrimachado&layout=compact&langs_count=7&theme=dracula" style="display: inline_block"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=henrimachado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="display: inline_block"/>
 </div>
+–>
