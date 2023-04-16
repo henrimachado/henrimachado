@@ -1,4 +1,6 @@
-<h1> Hi :)</h1>
+<h1> Oi! É um prazer te conhecer :)</h1>
+<p> Sou o Henrique, estudante apaixonado pelo mundo tech e da comunicação, sendo guiado por sua curiosidade até o campo das tecnologias de
+informação. Proativo, organizado, flexível e sem medo de sair da minha zona de conforto, busco novos desafios que levem ao meu crescimento. Atualmente me encontro estudando ferramentas de front-end, mas estou sempre aberto a novos conhecimentos.</p>
 
 <h3 style='left'>Languages:</h3>
 <div style='left'>
@@ -15,11 +17,13 @@
 <img alt="Apache Netbeans" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"/>
 </div>
 
-<h3 align="left">Design Tools:</h3>
+<h3 align="left">Tools and Frameworks:</h3>
 <div style='left'>
 <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
 <img alt="Adobe InDesign" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
+<img alt="Swiper" src="https://img.shields.io/badge/Swiper-6332F6.svg?style=for-the-badge&logo=Swiper&logoColor=white"/>
 </div>
 
 
