@@ -1,5 +1,5 @@
 <h1> Hey there! Nice to meet you :)</h1>
-<p> I'm Henrique, a student who's enthusiastic about technology and communication. My curiosity has led me to explore the field of Information Technology, which I find quite exciting. I see myself as someone who's proactive, organized, and adaptable, always up for new challenges to grow personally. I'm always actively studying different technologies, always looking for ways to improve my skills and gain new insights.</p>
+<p> I'm a student who's enthusiastic about technology and communication. My curiosity has led me to explore the field of Information Technology, which I find quite exciting. I see myself as someone who's proactive, organized, and adaptable, always up for new challenges to grow personally. I'm always actively studying different technologies, always looking for ways to improve my skills and gain new insights.</p>
 
 <h3 style='left'>Languages:</h3>
 <div style='left'>
